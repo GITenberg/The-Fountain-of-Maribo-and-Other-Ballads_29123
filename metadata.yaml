@@ -1,0 +1,40 @@
+_repo: The-Fountain-of-Maribo-and-Other-Ballads_29123
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29123-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+  editor:
+    agent_name: Wise, Thomas James
+    alias: Wise, Thomas J. (Thomas James)
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '31678'
+    url: http://www.gutenberg.org/2009/agents/31678
+    wikipedia: http://www.encyclopedia.com/topic/Thomas_James_Wise.aspx
+description: The fountain of Maribo, or, The Queen and the algreve -- Ramund -- Alf
+  of Odderskier.
+gutenberg_issued: '2009-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+- !lcsh 'Ballads'
+tableOfContents: The fountain of Maribo, or, The Queen and the algreve -- Ramund --
+  Alf of Odderskier.
+title: The Fountain of Maribo, and Other Ballads
+url: http://www.gutenberg.org/ebooks/29123
